@@ -1,4 +1,6 @@
 # webhost-portscan
 
-```$ python portscan.py
+```
+$ python portscan.py
+
 ```
